@@ -1,11 +1,5 @@
 # Priyesh Crowdfunding
 
-![demo](https://user-images.githubusercontent.com/35738310/64013051-47c49100-cb1f-11e9-8877-c09a944261b5.PNG)
-
-<h3><a href="https://github.com/priyeshpatel119/Crowdfunding">Demo</a></h3>
-<p>(make sure Metamask is installed, otherwise you can't interact with the dapp)</p>
-Check smart contract for this example:
-http://use-util.cloud.milkomeda.com:4000/address/0x7ae28c580DccA503c7412CE94e844db6f75BE585/transactions
 
 ## Getting started
 
